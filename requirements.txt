@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-image
+scikit-learn
+scipy
+DateTime
+matplotlib
+plotly
+ipykernel
+sphinx
+sphinx-rtd-theme
+seaborn
+nbsphinx
+myst_nb
+nbsphinx-link
+pyquaternion
